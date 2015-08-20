@@ -1,4 +1,4 @@
-package elementary10
+package main
 
 import "fmt"
 import "time"
